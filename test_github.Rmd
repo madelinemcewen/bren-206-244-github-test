@@ -9,15 +9,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Type your name (or anything else) HERE: 
 
+Madeline McEwen
+
+![](https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png)
+
+
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+red <- 9
 
-red <- 15
+yellow <- 12
 
-purple <- blue/red
+orange <- red/yellow
 
 ```
 
